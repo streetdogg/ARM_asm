@@ -1,0 +1,1 @@
+This repo is a result of the tutorial presented at: http://www.bravegnu.org
